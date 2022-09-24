@@ -1,0 +1,5 @@
+apples
+icecream
+milk
+chicken
+cheese
